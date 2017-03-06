@@ -1,4 +1,6 @@
-from decimal import Decimal
+# Thai Thien
+# 1351040
+
 import numpy as np
 
 def read_data():

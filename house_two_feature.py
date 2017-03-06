@@ -1,3 +1,6 @@
+# Thai Thien
+# 1351040
+
 import tensorflow as tf
 import data_util
 import numpy as np

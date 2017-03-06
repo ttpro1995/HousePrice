@@ -1,3 +1,6 @@
+# Thai Thien
+# 1351040
+
 import numpy as np
 import tensorflow as tf
 import xlrd
