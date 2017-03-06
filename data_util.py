@@ -35,5 +35,3 @@ def read_data():
 
 
 
-
-print('breakpoint')
